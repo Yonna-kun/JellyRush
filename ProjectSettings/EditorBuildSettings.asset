@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/JellyHome.unity
+    guid: d1e09a233fb23734c94efeb203913cde
+  - enabled: 1
+    path: Assets/cutscene.unity
+    guid: d70aefde14ab09441813a4cd69f91213
+  - enabled: 1
+    path: Assets/JellyPlayground.unity
+    guid: 5deb3c860d10dc04bb071a0d1ba2cd07
+  - enabled: 1
+    path: Assets/BetweenRounds.unity
+    guid: 97c1d226286fa5a4a9daf2473e3e7328
+  - enabled: 0
+    path: Assets/JellyPlayground2.unity
+    guid: 7d5567177360b3949b1fb43ebb359754
+  m_configObjects: {}
